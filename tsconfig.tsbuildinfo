@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/todo.controller.ts","./src/controllers/user.controller.ts","./src/middlewares/auth.middleware.ts","./src/routes/todo.routes.ts","./src/routes/user.routes.ts","./src/utils/generateTokens.ts","./src/utils/zodValidator.ts"],"version":"5.8.2"}
